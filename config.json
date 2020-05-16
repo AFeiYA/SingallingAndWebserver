@@ -4,6 +4,6 @@
 	"UseHTTPS": false,
 	"UseAuthentication": false,
 	"LogToFile": true,
-	"HomepageFile": "player.htm",
+	"HomepageFile": "custom_html/IDC02.htm",
 	"AdditionalRoutes": {}
 }
